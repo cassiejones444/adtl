@@ -1,8 +1,8 @@
 {
     "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
-    "title": "Run PowerShell",
+    "title": "CassieJ - Run PowerShell",
     "description": "Use this to run a script using PowerShell",
-    "publisher": "Microsoft",
+    "publisher": "Microsoft - Modified CJ",
     "tags": [
         "PowerShell"
     ],
