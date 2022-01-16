@@ -1,6 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/Azure/azure-devtestlab/master/schemas/2016-11-28/dtlArtifacts.json",
-  "title": "PowerShell Chroms Install",
+  "title": "PowerShell Chrome Install",
   "publisher": "cassiej",
   "description": "Installs Chrome using the Chocolatey package manager",
   "tags": [
